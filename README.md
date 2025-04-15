@@ -1,6 +1,7 @@
 # Text to Speech & Speech to Text
 
 A modern, responsive web application for converting text to speech and speech to text using Hugging Face's advanced AI models.
+*There may be errors due to the models, but this is not a problem, if you keep trying after the error messages you will get results.
 
 ![metinden](https://github.com/user-attachments/assets/4582201a-8784-40ec-83cf-7284c77ddc00)
 
