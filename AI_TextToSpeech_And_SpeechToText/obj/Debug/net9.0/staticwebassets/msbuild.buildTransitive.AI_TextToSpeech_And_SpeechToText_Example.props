@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AI_TextToSpeech_And_SpeechToText_Example.props" />
+</Project>

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Voice Converter</title>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="tab-container">
+      <h1 style="text-align: center; margin-bottom: 20px">Voice Converter</h1>
+      <div class="tab-buttons">
+        <button onclick="showTab('tts')" class="tab-button active">
+          Text-to-Speech
+        </button>
+        <button onclick="showTab('stt')" class="tab-button">
+          Speech-to-Text
+        </button>
+      </div>
+    </div>
+
+    <div id="tts" class="tab-content container active">
+      <h2>Text-to-Speech Converter</h2>
+      <textarea id="inputText" placeholder="Enter text here..."></textarea>
+      <button onclick="convertToSpeech()">Convert to Speech</button>
+      <div id="ttsStatus" class="status"></div>
+      <audio
+        id="audioPlayer"
+        controls
+        style="display: none; margin-top: 20px; width: 100%"
+      ></audio>
+    </div>
+
+    <div id="stt" class="tab-content container">
+      <h2>Speech-to-Text Converter</h2>
+      <div id="audioControls">
+        <button id="recordButton" onclick="toggleRecording()">
+          Start Recording
+        </button>
+        <input
+          type="file"
+          id="audioFile"
+          accept="audio/*"
+          style="display: none"
+        />
+        <button onclick="document.getElementById('audioFile').click()">
+          Select Audio File
+        </button>
+      </div>
+      <div id="sttStatus" class="status"></div>
+      <textarea
+        id="outputText"
+        placeholder="Converted text will appear here..."
+        readonly
+      ></textarea>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

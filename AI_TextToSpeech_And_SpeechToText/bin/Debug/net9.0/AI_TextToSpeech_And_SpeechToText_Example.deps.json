@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AI_TextToSpeech_And_SpeechToText_Example/1.0.0": {
+        "runtime": {
+          "AI_TextToSpeech_And_SpeechToText_Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI_TextToSpeech_And_SpeechToText_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

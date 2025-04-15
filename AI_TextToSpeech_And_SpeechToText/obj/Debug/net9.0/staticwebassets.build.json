@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "UI2vavNjM1gNI/G1KOqQTh28wJNXAl1xbQlh/O/4aH0=",
+  "Source": "AI_TextToSpeech_And_SpeechToText_Example",
+  "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AI_TextToSpeech_And_SpeechToText_Example\\wwwroot",
+      "Source": "AI_TextToSpeech_And_SpeechToText_Example",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\038nnajzcq-llxzjc04ta.gz",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "style#[.{fingerprint=llxzjc04ta}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gyfwpdq6mm",
+      "Integrity": "yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\2xzt9aft5j-fry1s6j336.gz",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "script#[.{fingerprint=fry1s6j336}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "umddotnfwp",
+      "Integrity": "up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\ca3e64vl4e-xm56xy4nnm.gz",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "index#[.{fingerprint=xm56xy4nnm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3yu4pa9ug2",
+      "Integrity": "VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\index.html",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xm56xy4nnm",
+      "Integrity": "Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\script.js",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fry1s6j336",
+      "Integrity": "xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\style.css",
+      "SourceId": "AI_TextToSpeech_And_SpeechToText_Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\",
+      "BasePath": "_content/AI_TextToSpeech_And_SpeechToText_Example",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "llxzjc04ta",
+      "Integrity": "J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\ca3e64vl4e-xm56xy4nnm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001410437236"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\ca3e64vl4e-xm56xy4nnm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E="
+        }
+      ]
+    },
+    {
+      "Route": "index.xm56xy4nnm.html",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\ca3e64vl4e-xm56xy4nnm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001410437236"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xm56xy4nnm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0="
+        }
+      ]
+    },
+    {
+      "Route": "index.xm56xy4nnm.html",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xm56xy4nnm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ceu+p9FBp6Q/8EF1a2bw9/mHExCyzTbTqrqo/Rb8+a0="
+        }
+      ]
+    },
+    {
+      "Route": "index.xm56xy4nnm.html.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\ca3e64vl4e-xm56xy4nnm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xm56xy4nnm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VVk2pNf3XNri/7Os2J4pJTydNox/uj+0vnYr+zuNL7E="
+        }
+      ]
+    },
+    {
+      "Route": "script.fry1s6j336.js",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\2xzt9aft5j-fry1s6j336.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000792393027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fry1s6j336"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.fry1s6j336.js",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fry1s6j336"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.fry1s6j336.js.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\2xzt9aft5j-fry1s6j336.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fry1s6j336"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\2xzt9aft5j-fry1s6j336.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000792393027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTVNu3Fjx/ijUdMNO7DmUIdl+VeccKWzetISj3CoOqQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\2xzt9aft5j-fry1s6j336.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-up0mNQGFsY2oWX5D+/K16R9RtqZO5WFZ61+ypna6kLM="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\038nnajzcq-llxzjc04ta.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000900900901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\038nnajzcq-llxzjc04ta.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE="
+        }
+      ]
+    },
+    {
+      "Route": "style.llxzjc04ta.css",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\038nnajzcq-llxzjc04ta.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000900900901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llxzjc04ta"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0="
+        }
+      ]
+    },
+    {
+      "Route": "style.llxzjc04ta.css",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llxzjc04ta"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8jhc51tczvFDtsXh170TnsCLLcdKC3gEKV5sExhjI0="
+        }
+      ]
+    },
+    {
+      "Route": "style.llxzjc04ta.css.gz",
+      "AssetFile": "C:\\Users\\Hakan\\Desktop\\tts\\AI_TextToSpeech_And_SpeechToText_Example\\AI_TextToSpeech_And_SpeechToText_Example\\obj\\Debug\\net9.0\\compressed\\038nnajzcq-llxzjc04ta.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "llxzjc04ta"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yEUdhscJqEs/jzrV2n1eRYTzxrOjY/7nxw/RE+q7iGE="
+        }
+      ]
+    }
+  ]
+}

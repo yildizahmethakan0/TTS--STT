@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_TextToSpeech_And_SpeechToText_Example", "AI_TextToSpeech_And_SpeechToText_Example.csproj", "{650776EC-AA1D-AF72-03CC-8D067D6892B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650776EC-AA1D-AF72-03CC-8D067D6892B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650776EC-AA1D-AF72-03CC-8D067D6892B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650776EC-AA1D-AF72-03CC-8D067D6892B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650776EC-AA1D-AF72-03CC-8D067D6892B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48F553A-3A09-475E-9ABD-AF89D86284E2}
+	EndGlobalSection
+EndGlobal
