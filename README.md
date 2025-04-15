@@ -89,7 +89,6 @@ Open your browser and navigate to `https://localhost:5001` or `http://localhost:
 ## Project Structure
 
 ```
-voice-converter/
 ├── Program.cs                # Main application entry point and API endpoints
 ├── TextToSpeechRequest.cs    # Text-to-speech request model
 ├── wwwroot/                  # Static files
@@ -98,7 +97,6 @@ voice-converter/
 │   ├── script.js             # JavaScript functionality
 │   └── audio_outputs/        # Generated audio files (created at runtime)
 ├── appsettings.json          # Application settings including API keys
-└── README.md                 # Project documentation
 ```
 
 ## API Endpoints
