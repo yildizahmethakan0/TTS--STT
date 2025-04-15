@@ -35,7 +35,7 @@ A modern, responsive web application for converting text to speech and speech to
 
 ```bash
 git clone https://github.com/yildizahmethakan0/TTS--STT.git
-cd voice-converter
+cd AI_TextToSpeech_And_SpeechToText
 ```
 
 2. **Configure API Key**
