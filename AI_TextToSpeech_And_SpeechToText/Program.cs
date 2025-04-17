@@ -49,7 +49,6 @@ app.UseDirectoryBrowser(new DirectoryBrowserOptions
 });
 #endregion
 
-
 app.MapPost("/text-to-speech", async (IHttpClientFactory httpClientFactory, HttpContext httpContext) =>
 {
     try
